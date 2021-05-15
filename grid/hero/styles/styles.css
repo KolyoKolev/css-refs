@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-banner {
+    min-height: 100vh;
+    color: aliceblue;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+}
+
+.hero-header {
+    background: linear-gradient(rgba(1, 21, 39, 0.75), rgba(0, 0, 0, 0.9)), url('../../../images/hero.jpg') center/cover fixed no-repeat;
+}
+
+h1 {
+    padding: 2rem;
+    font-size: 2.5rem;
+    text-transform: capitalize;
+}
+
+p {
+    padding: 0 2rem;
+    font-size: rem;
+}
