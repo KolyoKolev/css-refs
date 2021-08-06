@@ -1,2 +1,3 @@
 # css-refs
-A collection of pure HTML and CSS code for building different components
+
+A collection of HTML and CSS code
